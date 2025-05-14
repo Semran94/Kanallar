@@ -60,7 +60,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
 #EXTINF:0,TV8 International (1080p)
-#EXTGRP:unsorted
+#EXTGRP:Türk
 http://185.234.111.229:8000/play/a01x
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8
