@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,ATV
+#EXTGRP:Türk
+https://c.fulltvizle.com/aytv/index.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
 #EXTGRP:Türk
 https://tv-trt1.medya.trt.com.tr/master.m3u8
