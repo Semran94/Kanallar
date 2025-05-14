@@ -205,3 +205,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#EXTINF:0,Test film
+#EXTGRP:Belgesel
+https://s230.rapidrame.com/hls2/01/00023/0i0t3o2hq962_,l,n,.urlset/index-f1-a1.m3u8?t=n-NYVZcZp-nP99EqFHk3x6PmLREjvEkbC8vUmVGpK6Y&s=1747206410&e=1199998800&f=115692&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
