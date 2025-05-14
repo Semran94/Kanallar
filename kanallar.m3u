@@ -59,6 +59,10 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTGRP:Türk
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
+#EXTINF:0,TV8 International (1080p)
+#EXTGRP:unsorted
+http://185.234.111.229:8000/play/a01x
+
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8
 #EXTGRP:Türk
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -209,3 +213,23 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#EXTINF:0,Az TV (1080p)
+#EXTGRP:Azerbaycan
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:0,Azad TV
+#EXTGRP:Azerbaycan
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+
+#EXTINF:0,Dunya TV
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+
+#EXTINF:0,Idman TV
+#EXTGRP:Azerbaycan
+https://str.yodacdn.net/idman/index.m3u8
+
+#EXTINF:0,TMB TV
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
