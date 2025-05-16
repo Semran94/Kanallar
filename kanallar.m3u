@@ -233,3 +233,7 @@ https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:0,TMB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
+#EXTINF:0,test
+#EXTGRP:Azerbaycan
+https://www.youtube.com/watch?v=wmPSBa1SRA4
