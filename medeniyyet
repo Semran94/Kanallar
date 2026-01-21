@@ -17,7 +17,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Undefined",NTV
 #EXTGRP:Türk
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="News",Haber Global
 #EXTGRP:Türk
@@ -37,11 +37,11 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Undefined",TRT Belgesel
 #EXTGRP:Türk
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 
 #EXTINF:0,DMax
 #EXTGRP:Türk
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
 
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Undefined",TGRT Belgesel TV
 #EXTGRP:Türk
@@ -61,7 +61,7 @@ https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3
 
 #EXTINF:0,TV8 International (1080p)
 #EXTGRP:Türk
-http://185.234.111.229:8000/play/a01x
+https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8
 #EXTGRP:Türk
@@ -204,7 +204,7 @@ https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Culture",Medeniyyet TV
 #EXTGRP:Azerbaycan
-https://str.yodacdn.net/medeniyyet/index.m3u8
+https://str.yodacdn.net/medeniyyettele/index.m3u8
 
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
 #EXTGRP:Azerbaycan
@@ -233,5 +233,6 @@ https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
 
 
