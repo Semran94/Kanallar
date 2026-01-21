@@ -59,13 +59,9 @@ https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3
 #EXTGRP:Türk
 https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 
-#EXTINF:0,TV8 International (1080p)
-#EXTGRP:Türk
-https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
-
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8
 #EXTGRP:Türk
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D
 #EXTGRP:Türk
@@ -233,6 +229,7 @@ https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
 
 
 
