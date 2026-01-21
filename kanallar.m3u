@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,ATV
 #EXTGRP:Türk
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
 #EXTGRP:Türk
@@ -53,11 +53,11 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV
 #EXTGRP:Türk
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Undefined",Show TV
 #EXTGRP:Türk
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 
 #EXTINF:0,TV8 International (1080p)
 #EXTGRP:Türk
@@ -69,7 +69,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D
 #EXTGRP:Türk
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Undefined",Beyaz TV
 #EXTGRP:Türk
@@ -77,7 +77,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Undefined",Teve2
 #EXTGRP:Türk
-https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Undefined",TV4
 #EXTGRP:Türk
@@ -94,7 +94,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Movies",Cine5
 #EXTGRP:Türk
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/75873978-f382-40c3-9ef4-bedadd042f1f.m3u8
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
 #EXTGRP:Türk
@@ -127,11 +127,11 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Undefined",Power TV
 #EXTGRP:Türk
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/32907510-bd78-4bba-9972-343311a9e4bd.m3u8
 
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Music",Power Dance
 #EXTGRP:Türk
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/891fa76f-923b-4488-890b-367217b83811.m3u8
 
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="Music",Power Love 
 #EXTGRP:Türk
@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
 #EXTGRP:Azerbaycan
-https://node19.connect.az:9081/tv/live/playlist.m3u8
+https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Culture",Medeniyyet TV
 #EXTGRP:Azerbaycan
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 
 #EXTINF:0,Az TV (1080p)
 #EXTGRP:Azerbaycan
-https://str.yodacdn.net/aztv/index.m3u8
+https://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:0,Azad TV
 #EXTGRP:Azerbaycan
@@ -228,12 +228,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 #EXTINF:0,Idman TV
 #EXTGRP:Azerbaycan
-https://str.yodacdn.net/idman/index.m3u8
+https://str.yodacdn.net/idmantele/index.m3u8
 
 #EXTINF:0,TMB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:0,test
-#EXTGRP:Azerbaycan
-https://s230.rapidrame.com/hls2/01/00023/bl9r3kwkxb4c_,l,n,.urlset/index-f1-a1.m3u8?t=HyyKezCklL9UwAMMoeaiOhtdSQeG0_76c-3ROLOTPt8&s=1747395444&e=1199998800&f=116373&srv=s379&i=0.0&sp=0&p1=s230&p2=s230
+
