@@ -216,7 +216,7 @@ https://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:0,Azad TV
 #EXTGRP:Azerbaycan
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli_adaptive.m3u8
 
 #EXTINF:0,Dunya TV
 #EXTGRP:Azerbaycan
@@ -229,6 +229,7 @@ https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
 
 
 
